@@ -1,0 +1,8 @@
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory3\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory3\Factory\bin\Debug\Factory.exe.config
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory3\Factory\bin\Debug\Factory.exe
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory3\Factory\bin\Debug\Factory.pdb
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory3\Factory\bin\Debug\CustomerLibrary.dll
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory3\Factory\bin\Debug\CustomerLibrary.pdb
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory3\Factory\obj\Debug\Factory.exe
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory3\Factory\obj\Debug\Factory.pdb
